@@ -486,6 +486,11 @@ footer {
       font-size: 28px;
     }
   
+    .personal__logo--image {
+        content:url("./assets/ba.png");
+        width: 130px;
+    }
+    
     .about-me__info--para {
       font-size: 18px;
     }
